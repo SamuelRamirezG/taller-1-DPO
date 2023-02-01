@@ -9,7 +9,7 @@ import java.util.Set;
 
 /**
  * Esta clase encapsula la información sobre los atletas y calcula algunas cosas
- * sobre sus resultados.
+ * sobre sus resultados necesito que funcione.
  */
 public class Atleta
 {
